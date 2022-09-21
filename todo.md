@@ -17,7 +17,7 @@
 - [x] https://leetcode.com/problems/two-sum/
 - [ ] https://leetcode.com/problems/4sum/
 - [x] https://leetcode.com/problems/group-anagrams/
-- [ ] https://leetcode.com/problems/valid-anagram/
+- [x] https://leetcode.com/problems/valid-anagram/
 - [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string/
 
 ## queue/stack:
