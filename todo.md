@@ -13,8 +13,8 @@
 - [ ] https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 
 ## hash table:
-- [ ] https://leetcode.com/problems/single-number/ - решить за O(1) по памяти
-- [ ] https://leetcode.com/problems/two-sum/
+- [x] https://leetcode.com/problems/single-number/ - решить за O(1) по памяти
+- [x] https://leetcode.com/problems/two-sum/
 - [ ] https://leetcode.com/problems/4sum/
 - [ ] https://leetcode.com/problems/group-anagrams/
 - [ ] https://leetcode.com/problems/valid-anagram/
