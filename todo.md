@@ -16,7 +16,7 @@
 - [x] https://leetcode.com/problems/single-number/ - решить за O(1) по памяти
 - [x] https://leetcode.com/problems/two-sum/
 - [ ] https://leetcode.com/problems/4sum/
-- [ ] https://leetcode.com/problems/group-anagrams/
+- [x] https://leetcode.com/problems/group-anagrams/
 - [ ] https://leetcode.com/problems/valid-anagram/
 - [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string/
 
