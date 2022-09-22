@@ -31,7 +31,7 @@
 - [x] https://leetcode.com/problems/merge-intervals/
 
 ## heap/hash:
-- [ ] https://leetcode.com/problems/top-k-frequent-words/
+- [x] https://leetcode.com/problems/top-k-frequent-words/
 - [ ] https://leetcode.com/problems/top-k-frequent-elements/
 
 ## two pointers:
