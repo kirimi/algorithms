@@ -28,7 +28,7 @@
 - [ ] https://leetcode.com/problems/remove-invalid-parentheses/
 
 ## sort:
-- [ ] https://leetcode.com/problems/merge-intervals/
+- [x] https://leetcode.com/problems/merge-intervals/
 
 ## heap/hash:
 - [ ] https://leetcode.com/problems/top-k-frequent-words/
