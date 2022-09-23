@@ -32,7 +32,7 @@
 
 ## heap/hash:
 - [x] https://leetcode.com/problems/top-k-frequent-words/
-- [ ] https://leetcode.com/problems/top-k-frequent-elements/
+- [x] https://leetcode.com/problems/top-k-frequent-elements/
 
 ## two pointers:
 - [ ] https://leetcode.com/problems/container-with-most-water/
