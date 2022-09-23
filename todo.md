@@ -41,7 +41,7 @@
 ## sliding window:
 - [ ] https://leetcode.com/problems/sliding-window-median/
 - [ ] https://leetcode.com/problems/sliding-window-maximum/
-- [ ] https://leetcode.com/problems/longest-repeating-character-replacement/
+- [~] https://leetcode.com/problems/longest-repeating-character-replacement/
 
 ## tree:
 - [x] https://leetcode.com/problems/same-tree/
