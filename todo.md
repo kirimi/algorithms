@@ -47,7 +47,7 @@
 - [x] https://leetcode.com/problems/same-tree/
 - [x] https://leetcode.com/problems/symmetric-tree/
 - [ ] https://leetcode.com/problems/balanced-binary-tree/
-- [ ] https://leetcode.com/problems/path-sum-ii/
+- [~] https://leetcode.com/problems/path-sum-ii/
 
 ## greedy problems:
 - [ ] https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
