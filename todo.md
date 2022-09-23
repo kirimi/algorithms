@@ -36,7 +36,7 @@
 
 ## two pointers:
 - [x] https://leetcode.com/problems/container-with-most-water/
-- [ ] https://leetcode.com/problems/partition-labels/
+- [x] https://leetcode.com/problems/partition-labels/
 
 ## sliding window:
 - [ ] https://leetcode.com/problems/sliding-window-median/
