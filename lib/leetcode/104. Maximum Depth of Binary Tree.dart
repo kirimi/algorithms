@@ -12,17 +12,17 @@ import 'package:algorithms/leetcode/tree_node.dart';
 
 class Solution {
   int maxDepth(TreeNode? root) {
-    int visit(TreeNode? node, int deep) {
+    int visit(TreeNode? node) {
       if (node == null) {
-        return deep;
+        return 0;
       }
 
-      final left = visit(node.left, deep + 1);
-      final right = visit(node.right, deep + 1);
+      final left = visit(node.left) + 1;
+      final right = visit(node.right) + 1;
 
       return max(left, right);
     }
 
-    return visit(root, 0);
+    return visit(root);
   }
 }
