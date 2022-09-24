@@ -7,14 +7,14 @@ import 'package:algorithms/leetcode/list_node.dart';
 
 class Solution {
   ListNode? deleteDuplicates(ListNode? head) {
-    ListNode? current = head;
+    ListNode? node = head;
 
-    while (current != null) {
-      if (current.val == current.next?.val) {
-        current.next = current.next?.next;
-        continue;
+    while (node != null) {
+      if (node.val == node.next?.val) {
+        node.next = node.next?.next;
+      } else {
+        node = node.next;
       }
-      current = current.next;
     }
 
     return head;
