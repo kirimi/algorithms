@@ -1,7 +1,7 @@
 ## linked lists:
 - [x] https://leetcode.com/problems/merge-k-sorted-lists/
 - [x] https://leetcode.com/problems/linked-list-cycle/
-- [ ] https://leetcode.com/problems/add-two-numbers/
+- [x] https://leetcode.com/problems/add-two-numbers/
 - [x] https://leetcode.com/problems/reverse-linked-list/
 
 ## binary search:
